@@ -12,7 +12,8 @@ lipid membrane, using an arbitrary Lagrangian--Eulerian (ALE) finite element
 method (FEM).
 More details, including the entire codebase, will soon be pushed to this
 repository.
-In the meantime, please see the description of the method in the arXiv preprint.
+In the meantime, please see the description of the method in the
+[arXiv preprint](https://arxiv.org/pdf/2412.07596).
 
 
 ## Results
