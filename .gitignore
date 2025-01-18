@@ -1,0 +1,19 @@
+*.swp
+MembraneAleFem/docs/build/
+MembraneAleFem/out/
+
+Manifest.toml
+
+
+# graphics
+
+*.png
+*.jpg
+*.gif
+*.mp4
+*.svg
+*.pdf
+
+# data
+*.txt
+*.log
