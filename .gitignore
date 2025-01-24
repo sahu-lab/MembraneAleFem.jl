@@ -1,6 +1,6 @@
 *.swp
-MembraneAleFem/docs/build/
-MembraneAleFem/out/
+docs/build/
+out/
 
 Manifest.toml
 
