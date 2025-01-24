@@ -42,3 +42,8 @@ makedocs(
   ),
   plugins   = [bib],
 );
+
+deploydocs(
+  repo="github.com/sahu-lab/MembraneAleFem.jl.git",
+);
+
