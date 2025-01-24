@@ -1,9 +1,12 @@
 # julia --color=yes --project make.jl
+# julia -e 'using LiveServer; serve(dir="build")'
 #
 # refs: 
 # [1] https://documenter.juliadocs.org/stable/man/guide/#Package-Guide
 # [2] https://docs.julialang.org/en/v1/manual/documentation/
 # [3] https://juliadocs.org/DocumenterCitations.jl/stable/
+
+push!(LOAD_PATH, "../src/");
 
 using Documenter, DocumenterCitations, MembraneAleFem, Pkg
 
@@ -36,7 +39,7 @@ makedocs(
   authors   = "$AUTHORS",
   pages     = PAGES,
   format    = Documenter.HTML(
-    prettyurls = get(ENV, "CI", nothing) == "true",
+    prettyurls = true,
     assets     = ["assets/favicon.ico"],
     footer     = "[$NAME.jl]($GITHUB) v$VERSION docs powered by [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)."
   ),
