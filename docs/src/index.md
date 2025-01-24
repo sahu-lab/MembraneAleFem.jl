@@ -138,7 +138,6 @@ hidedecorations!(ax);
 fig
 ```
 
-![Pure-bending](assets/example-bend.png)
 
 
 ### 2. Tether pulling
@@ -166,7 +165,6 @@ scatter(tether_z, tether_f, markersize=15, color=RGBf(0.75, 0.34, 0.0),
           ylabel=L"\mathcal{F}/(k_{\text{b}}/r_{\text{c}})"))
 ```
 
-![Force-vs-displacement](assets/example-pull.png)
 
 
 - **Restart example**
