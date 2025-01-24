@@ -40,6 +40,7 @@ makedocs(
   pages     = PAGES,
   format    = Documenter.HTML(
     prettyurls = true,
+    canonical  = "https://sahu-lab.github.io/MembraneAleFem.jl",
     assets     = ["assets/favicon.ico"],
     footer     = "[$NAME.jl]($GITHUB) v$VERSION docs powered by [Documenter.jl](https://github.com/JuliaDocs/Documenter.jl)."
   ),
