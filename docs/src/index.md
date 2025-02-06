@@ -7,7 +7,7 @@ In doing so, the surface is discretized and endowed with a mesh whose material
 behavior and dynamics are arbitrarily specified by the user.
 The fundamental unknowns are then the material velocity ``\boldsymbol{v}``, mesh
 velocity ``\boldsymbol{v}^{\text{m}}``, and surface tension ``\lambda``—the
-latter of which is a Lagrange multiplier enforcing areal incompressibility.
+latter of which is a Lagrange multiplier that enforces areal incompressibility.
 Since the mesh motion is arbitrarily specified, we employ another Lagrange
 multiplier—referred to as the mesh pressure ``p^{\text{m}}``—to enforce the ALE
 kinematic constraint
