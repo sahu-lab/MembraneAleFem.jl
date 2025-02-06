@@ -1,3 +1,7 @@
+# Main file for MembraneAleFem.jl
+#
+# Written by Amaresh Sahu (asahu@che.utexas.edu) on 17 January 2024
+
 module MembraneAleFem
 export Dof, solve, restart
 
