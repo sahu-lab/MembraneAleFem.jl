@@ -49,5 +49,7 @@ makedocs(
 
 deploydocs(
   repo="github.com/sahu-lab/MembraneAleFem.jl.git",
+  branch="gh-doc-pages",
+  forcepush=true,
 );
 
