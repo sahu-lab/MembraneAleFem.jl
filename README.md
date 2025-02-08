@@ -1,6 +1,9 @@
 
 # MembraneAleFem.jl
 
+[![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://sahu-lab.github.io/MembraneAleFem.jl/dev/)
+[![DOI](https://zenodo.org/badge/DOI/10.48550/arXiv.2412.07596.svg)](https://doi.org/10.48550/arXiv.2412.07596)
+
 Source code for arbitrary Lagrangian--Eulerian (ALE) lipid membrane finite
 element method (FEM).
 
