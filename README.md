@@ -13,10 +13,9 @@ element method (FEM).
 **MembraneAleFem.jl** solves the continuum equations governing the dynamics of a
 lipid membrane, using an arbitrary Lagrangian--Eulerian (ALE) finite element
 method (FEM).
-The entire codebase is currently live; documentation will soon be pushed as
-well.
-In the meantime, please see the description of the method in the
-[arXiv preprint](https://arxiv.org/pdf/2412.07596).
+Additional details can be found in the package
+[documentation](https://sahu-lab.github.io/MembraneAleFem.jl), as well as the
+[manuscript](https://arxiv.org/pdf/2412.07596).
 
 
 ## Results
