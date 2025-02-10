@@ -26,22 +26,22 @@ The following three videos capture the results of Lagrangian, Eulerian, and ALE
 simulations---corresponding to Figures 4 and 5 of the manuscript.
 
 
-### Lagrangian tether pulling
+### Lagrangian tether pulling: pull-lag.mov
 
 https://github.com/user-attachments/assets/5b345ea8-f9b6-44b6-b673-c7658df16aa8
 
 
-### Eulerian tether pulling
+### Eulerian tether pulling: pull-eul.mov
 
 https://github.com/user-attachments/assets/578ed295-59ab-43ed-9e98-a2f57a590250
 
 
-### ALE tether pulling
+### ALE tether pulling: pull-ale.mov
 
 https://github.com/user-attachments/assets/abdb39f2-d9be-4f8d-acec-97cff811b1b8
 
 
-### ALE tether translation
+### ALE tether translation: translate-ale.mov
 
 For the first time, one can translate the tether laterally across the membrane
 surface.
